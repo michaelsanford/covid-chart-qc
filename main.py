@@ -18,26 +18,20 @@ with urllib.request.urlopen(QC) as response:
     # MA calculations make more sense with "today" at the end
     df = df[::-1]
     df.set_index('Date')
-    # df.reindex()
 
     df['Active'] = df.Confirmed - df.Recovered - df.Deaths
 
     weights = np.arange(1,6)
     wma10 = df.Active.rolling(5).apply(lambda act: np.dot(act, weights)/weights.sum(), raw=True)
-    df['5_WMA'] = np.round(wma10, decimals=1)
 
-    # df['5_SMA'] = df.Active.rolling(5).mean()
+    df['Change'] = np.round(df['Active'].diff(), decimals=0)
 
-    df['New'] = np.round(df['Active'] - df['Active'].shift(), decimals=0)
-
-    df['EMA_New'] = df.iloc[:,-1].ewm(span=7, adjust=True).mean()
-
-    df['RoC'] = df['Active'].diff()
+    df['EMA_Change_7'] = df.iloc[:,-1].ewm(span=7, adjust=True).mean()
 
     df = df.sort_values(by=['Date'], ignore_index=True)
 
     # Last N days
-    df = df.tail(45)
+    df = df.tail(30)
 
     print(df)
 
@@ -45,9 +39,9 @@ with urllib.request.urlopen(QC) as response:
     # plt.plot(df['Active'], label="Active")
     # plt.plot(df['Recovered'], label="Recovered")
     # plt.plot(df['RoC'], label="Rate of Change")
-    plt.plot(df['5_WMA'], label="5-Day WMA")
-    plt.plot(df['New'], label="New Cases")
-    plt.plot(df['EMA_New'], label="3 EMA (New Cases)")
+    # plt.plot(df['5_WMA'], label="5-Day WMA")
+    plt.plot(df['Change'], label="Change")
+    plt.plot(df['EMA_Change_7'], label="7 EMA (Change)")
     plt.xlabel("Elapsed Days")
     plt.ylabel("Cases")
     plt.grid(True)
