@@ -1,6 +1,13 @@
 # COVID 19 Charting for Québec
 
-Pandas experiment to chart some COVID data
+Pandas experiment to chart some COVID data.
+
+## Quickstart
+
+```powershell
+pip install requirements.txt
+py main.py
+```
 
 ## What is this?
 
