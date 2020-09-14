@@ -6,9 +6,14 @@ import matplotlib as mpl
 
 QC = "https://kustom.radio-canada.ca/coronavirus/canada_quebec"
 
+last_days = 28
+
 with urllib.request.urlopen(QC) as response:
     data = json.load(response)[0]['History']
     df = pd.json_normalize(data)
+
+    # hospital = int(json.load(response)[0]['Hospitalizations'])
+    # icu = int(json.load(response)[0]['IntensiveCare'])
 
     # Cast types
     df['Date'] = pd.to_datetime(df['Date'])
@@ -20,30 +25,26 @@ with urllib.request.urlopen(QC) as response:
     df.set_index('Date')
 
     df['Active'] = df.Confirmed - df.Recovered - df.Deaths
-
-    weights = np.arange(1,6)
-    wma10 = df.Active.rolling(5).apply(lambda act: np.dot(act, weights)/weights.sum(), raw=True)
-
     df['Change'] = np.round(df['Active'].diff(), decimals=0)
-
-    df['EMA_Change_7'] = df.iloc[:,-1].ewm(span=7, adjust=True).mean()
 
     df = df.sort_values(by=['Date'], ignore_index=True)
 
     # Last N days
-    df = df.tail(30)
+    df = df.tail(last_days)
 
     print(df)
 
-    plt.figure(figsize = (12,6))
-    # plt.plot(df['Active'], label="Active")
+    fig = plt.figure(figsize = (25,8))
+    p = plt.plot(df['Active'], label="Active")
     # plt.plot(df['Recovered'], label="Recovered")
-    # plt.plot(df['RoC'], label="Rate of Change")
-    # plt.plot(df['5_WMA'], label="5-Day WMA")
     plt.plot(df['Change'], label="Change")
-    plt.plot(df['EMA_Change_7'], label="7 EMA (Change)")
-    plt.xlabel("Elapsed Days")
+    plt.xlabel("Elapsed Days (last %s)" % last_days)
     plt.ylabel("Cases")
     plt.grid(True)
+
+    for i, row in df.iterrows():
+        plt.annotate(str(row['Active']), (i, row['Active']))
+        plt.annotate(str(row['Change']), (i, row['Change']))
+
     plt.legend()
     plt.show()
