@@ -6,7 +6,8 @@ import matplotlib as mpl
 
 QC = "https://kustom.radio-canada.ca/coronavirus/canada_quebec"
 
-last_days = 28
+last_days = 300
+nth_label = 5
 
 with urllib.request.urlopen(QC) as response:
     data = json.load(response)[0]['History']
@@ -29,22 +30,27 @@ with urllib.request.urlopen(QC) as response:
 
     df = df.sort_values(by=['Date'], ignore_index=True)
 
+    df['MA'] = df['Active'].rolling(window=7).mean()
+
     # Last N days
     df = df.tail(last_days)
 
     print(df)
 
-    fig = plt.figure(figsize = (25,8))
-    p = plt.plot(df['Active'], label="Active")
+    fig = plt.figure(figsize = (18,8))
+    # p = plt.plot(df['Active'], label="Active")
     # plt.plot(df['Recovered'], label="Recovered")
     plt.plot(df['Change'], label="Change")
+    plt.plot(df['MA'], label="7 MA")
     plt.xlabel("Elapsed Days (last %s)" % last_days)
     plt.ylabel("Cases")
     plt.grid(True)
 
     for i, row in df.iterrows():
-        plt.annotate(str(row['Active']), (i, row['Active']))
-        plt.annotate(str(row['Change']), (i, row['Change']))
+        if i % nth_label == 0:
+            # plt.annotate(str(row['Active']), (i, row['Active']))
+            plt.annotate(str(row['Active']), (i, row['MA']))
+            plt.annotate(str(row['Change']), (i, row['Change']))
 
     plt.legend()
     plt.show()
