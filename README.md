@@ -15,6 +15,12 @@ A silly late-night experiment with Pandas to make my own charts.
 
 Probably don't use it for anything serious.
 
+# Data Source?
+
+This scrapes the publically-available (but undocumented) SRC data source.
+
+(Thank you for making it public 💖)
+
 # `History` Data Structure
 
 ```json
