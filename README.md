@@ -5,7 +5,7 @@ Pandas experiment to chart some COVID data.
 ## Quickstart
 
 ```powershell
-pip install requirements.txt
+pip install -r requirements.txt
 py main.py
 ```
 
