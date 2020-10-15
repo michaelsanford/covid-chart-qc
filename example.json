@@ -1,1164 +1,2625 @@
-[{
-    "Key": "canada_quebec",
-    "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec",
-    "Name": "Quebec, Canada",
-    "NameFr": "Québec, Canada",
-    "Country": "Canada",
-    "CountryFr": "Canada",
-    "State": "Quebec",
-    "StateFr": "Québec",
-    "Lat": "52.9399",
-    "Long": "-73.5491",
-    "Confirmed": "58414",
-    "Deaths": "5666",
-    "Recovered": "50703",
-    "Tests": "747110",
-    "TestsPending": null,
-    "Hospitalizations": "206",
-    "IntensiveCares": "12",
-    "Population": "8484965",
-    "History": [{
-        "Date": "2020-07-25",
-        "Confirmed": "58414",
-        "Deaths": "5666",
-        "Recovered": "50703"
-    }, {
-        "Date": "2020-07-24",
-        "Confirmed": "58243",
-        "Deaths": "5663",
-        "Recovered": "50615"
-    }, {
-        "Date": "2020-07-23",
-        "Confirmed": "58080",
-        "Deaths": "5662",
-        "Recovered": "50505"
-    }, {
-        "Date": "2020-07-22",
-        "Confirmed": "57938",
-        "Deaths": "5662",
-        "Recovered": "50373"
-    }, {
-        "Date": "2020-07-21",
-        "Confirmed": "57796",
-        "Deaths": "5658",
-        "Recovered": "50298"
-    }, {
-        "Date": "2020-07-20",
-        "Confirmed": "57616",
-        "Deaths": "5657",
-        "Recovered": "50190"
-    }, {
-        "Date": "2020-07-19",
-        "Confirmed": "57466",
-        "Deaths": "5655",
-        "Recovered": "50050"
-    }, {
-        "Date": "2020-07-18",
-        "Confirmed": "57300",
-        "Deaths": "5654",
-        "Recovered": "50027"
-    }, {
-        "Date": "2020-07-17",
-        "Confirmed": "57142",
-        "Deaths": "5647",
-        "Recovered": "49939"
-    }, {
-        "Date": "2020-07-16",
-        "Confirmed": "57001",
-        "Deaths": "5646",
-        "Recovered": "49845"
-    }, {
-        "Date": "2020-07-15",
-        "Confirmed": "56859",
-        "Deaths": "5636",
-        "Recovered": "49742"
-    }, {
-        "Date": "2020-07-14",
-        "Confirmed": "56730",
-        "Deaths": "5633",
-        "Recovered": "49641"
-    }, {
-        "Date": "2020-07-13",
-        "Confirmed": "56621",
-        "Deaths": "5628",
-        "Recovered": "49526"
-    }, {
-        "Date": "2020-07-12",
-        "Confirmed": "56521",
-        "Deaths": "5627",
-        "Recovered": "49459"
-    }, {
-        "Date": "2020-07-11",
-        "Confirmed": "56407",
-        "Deaths": "5620",
-        "Recovered": "49391"
-    }, {
-        "Date": "2020-07-10",
-        "Confirmed": "56316",
-        "Deaths": "5612",
-        "Recovered": "49306"
-    }, {
-        "Date": "2020-07-09",
-        "Confirmed": "56216",
-        "Deaths": "5609",
-        "Recovered": "49176"
-    }, {
-        "Date": "2020-07-08",
-        "Confirmed": "56079",
-        "Deaths": "5603",
-        "Recovered": "49095"
-    }, {
-        "Date": "2020-07-07",
-        "Confirmed": "55997",
-        "Deaths": "5590",
-        "Recovered": "48982"
-    }, {
-        "Date": "2020-07-06",
-        "Confirmed": "55937",
-        "Deaths": "5577",
-        "Recovered": "48921"
-    }, {
-        "Date": "2020-07-05",
-        "Confirmed": "55863",
-        "Deaths": "5574",
-        "Recovered": "48837"
-    }, {
-        "Date": "2020-07-04",
-        "Confirmed": "55784",
-        "Deaths": "5566",
-        "Recovered": "48745"
-    }, {
-        "Date": "2020-07-03",
-        "Confirmed": "55682",
-        "Deaths": "5560",
-        "Recovered": "48609"
-    }, {
-        "Date": "2020-07-02",
-        "Confirmed": "55593",
-        "Deaths": "5541",
-        "Recovered": "48416"
-    }, {
-        "Date": "2020-07-01",
-        "Confirmed": "55524",
-        "Deaths": "5527",
-        "Recovered": "48278"
-    }, {
-        "Date": "2020-06-30",
-        "Confirmed": "55458",
-        "Deaths": "5503",
-        "Recovered": "48150"
-    }, {
-        "Date": "2020-06-29",
-        "Confirmed": "55390",
-        "Deaths": "5485",
-        "Recovered": "47996"
-    }, {
-        "Date": "2020-06-28",
-        "Confirmed": "55318",
-        "Deaths": "5478",
-        "Recovered": "47923"
-    }, {
-        "Date": "2020-06-27",
-        "Confirmed": "55241",
-        "Deaths": "5472",
-        "Recovered": "47782"
-    }, {
-        "Date": "2020-06-26",
-        "Confirmed": "55156",
-        "Deaths": "5455",
-        "Recovered": "47524"
-    }, {
-        "Date": "2020-06-25",
-        "Confirmed": "55079",
-        "Deaths": "5448",
-        "Recovered": "47365"
-    }, {
-        "Date": "2020-06-24",
-        "Confirmed": "54937",
-        "Deaths": "5441",
-        "Recovered": "47225"
-    }, {
-        "Date": "2020-06-23",
-        "Confirmed": "54884",
-        "Deaths": "5424",
-        "Recovered": "47024"
-    }, {
-        "Date": "2020-06-22",
-        "Confirmed": "54835",
-        "Deaths": "5417",
-        "Recovered": "46847"
-    }, {
-        "Date": "2020-06-21",
-        "Confirmed": "54766",
-        "Deaths": "5417",
-        "Recovered": "46669"
-    }, {
-        "Date": "2020-06-20",
-        "Confirmed": "54674",
-        "Deaths": "5408",
-        "Recovered": "46537"
-    }, {
-        "Date": "2020-06-19",
-        "Confirmed": "54550",
-        "Deaths": "5375",
-        "Recovered": "46281"
-    }, {
-        "Date": "2020-06-18",
-        "Confirmed": "54383",
-        "Deaths": "5340",
-        "Recovered": "46029"
-    }, {
-        "Date": "2020-06-17",
-        "Confirmed": "54263",
-        "Deaths": "5298",
-        "Recovered": "45746"
-    }, {
-        "Date": "2020-06-16",
-        "Confirmed": "54146",
-        "Deaths": "5269",
-        "Recovered": "45442"
-    }, {
-        "Date": "2020-06-15",
-        "Confirmed": "54054",
-        "Deaths": "5242",
-        "Recovered": "45067"
-    }, {
-        "Date": "2020-06-14",
-        "Confirmed": "53952",
-        "Deaths": "5222",
-        "Recovered": "44861"
-    }, {
-        "Date": "2020-06-13",
-        "Confirmed": "53824",
-        "Deaths": "5195",
-        "Recovered": "44547"
-    }, {
-        "Date": "2020-06-12",
-        "Confirmed": "53666",
-        "Deaths": "5148",
-        "Recovered": "44170"
-    }, {
-        "Date": "2020-06-11",
-        "Confirmed": "53485",
-        "Deaths": "5105",
-        "Recovered": "43749"
-    }, {
-        "Date": "2020-06-10",
-        "Confirmed": "53341",
-        "Deaths": "5081",
-        "Recovered": "43258"
-    }, {
-        "Date": "2020-06-09",
-        "Confirmed": "53185",
-        "Deaths": "5029",
-        "Recovered": "42834"
-    }, {
-        "Date": "2020-06-08",
-        "Confirmed": "53047",
-        "Deaths": "4984",
-        "Recovered": "42418"
-    }, {
-        "Date": "2020-06-07",
-        "Confirmed": "52849",
-        "Deaths": "4978",
-        "Recovered": "41995"
-    }, {
-        "Date": "2020-06-06",
-        "Confirmed": "52624",
-        "Deaths": "4970",
-        "Recovered": "41573"
-    }, {
-        "Date": "2020-06-05",
-        "Confirmed": "52398",
-        "Deaths": "4935",
-        "Recovered": "40984"
-    }, {
-        "Date": "2020-06-04",
-        "Confirmed": "52143",
-        "Deaths": "4885",
-        "Recovered": "40533"
-    }, {
-        "Date": "2020-06-03",
-        "Confirmed": "51884",
-        "Deaths": "4794",
-        "Recovered": "39975"
-    }, {
-        "Date": "2020-06-02",
-        "Confirmed": "51593",
-        "Deaths": "4713",
-        "Recovered": "39388"
-    }, {
-        "Date": "2020-06-01",
-        "Confirmed": "51354",
-        "Deaths": "4661",
-        "Recovered": "38773"
-    }, {
-        "Date": "2020-05-31",
-        "Confirmed": "51059",
-        "Deaths": "4641",
-        "Recovered": "38185"
-    }, {
-        "Date": "2020-05-30",
-        "Confirmed": "50651",
-        "Deaths": "4439",
-        "Recovered": "37621"
-    }, {
-        "Date": "2020-05-29",
-        "Confirmed": "50232",
-        "Deaths": "4363",
-        "Recovered": "36952"
-    }, {
-        "Date": "2020-05-28",
-        "Confirmed": "49702",
-        "Deaths": "4302",
-        "Recovered": "36272"
-    }, {
-        "Date": "2020-05-27",
-        "Confirmed": "49139",
-        "Deaths": "4228",
-        "Recovered": "35562"
-    }, {
-        "Date": "2020-05-26",
-        "Confirmed": "48598",
-        "Deaths": "4139",
-        "Recovered": "34911"
-    }, {
-        "Date": "2020-05-25",
-        "Confirmed": "47984",
-        "Deaths": "4069",
-        "Recovered": "34128"
-    }, {
-        "Date": "2020-05-24",
-        "Confirmed": "47411",
-        "Deaths": "3984",
-        "Recovered": "33574"
-    }, {
-        "Date": "2020-05-23",
-        "Confirmed": "46838",
-        "Deaths": "3940",
-        "Recovered": "32908"
-    }, {
-        "Date": "2020-05-22",
-        "Confirmed": "46141",
-        "Deaths": "3865",
-        "Recovered": "32191"
-    }, {
-        "Date": "2020-05-21",
-        "Confirmed": "45495",
-        "Deaths": "3800",
-        "Recovered": "31351"
-    }, {
-        "Date": "2020-05-20",
-        "Confirmed": "44775",
-        "Deaths": "3718",
-        "Recovered": "30626"
-    }, {
-        "Date": "2020-05-19",
-        "Confirmed": "44197",
-        "Deaths": "3647",
-        "Recovered": "29846"
-    }, {
-        "Date": "2020-05-18",
-        "Confirmed": "43627",
-        "Deaths": "3596",
-        "Recovered": "29073"
-    }, {
-        "Date": "2020-05-17",
-        "Confirmed": "42920",
-        "Deaths": "3562",
-        "Recovered": "28422"
-    }, {
-        "Date": "2020-05-16",
-        "Confirmed": "42183",
-        "Deaths": "3483",
-        "Recovered": "27761"
-    }, {
-        "Date": "2020-05-15",
-        "Confirmed": "41420",
-        "Deaths": "3401",
-        "Recovered": "26985"
-    }, {
-        "Date": "2020-05-14",
-        "Confirmed": "40724",
-        "Deaths": "3351",
-        "Recovered": "26035"
-    }, {
-        "Date": "2020-05-13",
-        "Confirmed": "39931",
-        "Deaths": "3220",
-        "Recovered": "25224"
-    }, {
-        "Date": "2020-05-12",
-        "Confirmed": "39225",
-        "Deaths": "3131",
-        "Recovered": "24398"
-    }, {
-        "Date": "2020-05-11",
-        "Confirmed": "38469",
-        "Deaths": "3013",
-        "Recovered": "23344"
-    }, {
-        "Date": "2020-05-10",
-        "Confirmed": "37721",
-        "Deaths": "2928",
-        "Recovered": "22708"
-    }, {
-        "Date": "2020-05-09",
-        "Confirmed": "36986",
-        "Deaths": "2786",
-        "Recovered": "22021"
-    }, {
-        "Date": "2020-05-08",
-        "Confirmed": "36150",
-        "Deaths": "2725",
-        "Recovered": "21236"
-    }, {
-        "Date": "2020-05-07",
-        "Confirmed": "35238",
-        "Deaths": "2631",
-        "Recovered": "20511"
-    }, {
-        "Date": "2020-05-06",
-        "Confirmed": "34327",
-        "Deaths": "2510",
-        "Recovered": "19768"
-    }, {
-        "Date": "2020-05-05",
-        "Confirmed": "33417",
-        "Deaths": "2397",
-        "Recovered": "19122"
-    }, {
-        "Date": "2020-05-04",
-        "Confirmed": "32623",
-        "Deaths": "2280",
-        "Recovered": "18431"
-    }, {
-        "Date": "2020-05-03",
-        "Confirmed": "31865",
-        "Deaths": "2205",
-        "Recovered": "17862"
-    }, {
-        "Date": "2020-05-02",
-        "Confirmed": "29656",
-        "Deaths": "2136",
-        "Recovered": "17206"
-    }, {
-        "Date": "2020-05-01",
-        "Confirmed": "28648",
-        "Deaths": "2022",
-        "Recovered": "16450"
-    }, {
-        "Date": "2020-04-30",
-        "Confirmed": "27538",
-        "Deaths": "1859",
-        "Recovered": "15741"
-    }, {
-        "Date": "2020-04-29",
-        "Confirmed": "26594",
-        "Deaths": "1761",
-        "Recovered": "14945"
-    }, {
-        "Date": "2020-04-28",
-        "Confirmed": "25757",
-        "Deaths": "1682",
-        "Recovered": "14284"
-    }, {
-        "Date": "2020-04-27",
-        "Confirmed": "24982",
-        "Deaths": "1599",
-        "Recovered": "13641"
-    }, {
-        "Date": "2020-04-26",
-        "Confirmed": "24107",
-        "Deaths": "1515",
-        "Recovered": "13153"
-    }, {
-        "Date": "2020-04-25",
-        "Confirmed": "23267",
-        "Deaths": "1446",
-        "Recovered": "12584"
-    }, {
-        "Date": "2020-04-24",
-        "Confirmed": "22616",
-        "Deaths": "1340",
-        "Recovered": "11987"
-    }, {
-        "Date": "2020-04-23",
-        "Confirmed": "21838",
-        "Deaths": "1243",
-        "Recovered": "11437"
-    }, {
-        "Date": "2020-04-22",
-        "Confirmed": "20965",
-        "Deaths": "1134",
-        "Recovered": "10822"
-    }, {
-        "Date": "2020-04-21",
-        "Confirmed": "20126",
-        "Deaths": "1041",
-        "Recovered": "10262"
-    }, {
-        "Date": "2020-04-20",
-        "Confirmed": "19319",
-        "Deaths": "939",
-        "Recovered": "9615"
-    }, {
-        "Date": "2020-04-19",
-        "Confirmed": "18357",
-        "Deaths": "877",
-        "Recovered": "9077"
-    }, {
-        "Date": "2020-04-18",
-        "Confirmed": "17521",
-        "Deaths": "805",
-        "Recovered": "8507"
-    }, {
-        "Date": "2020-04-17",
-        "Confirmed": "16798",
-        "Deaths": "688",
-        "Recovered": "7820"
-    }, {
-        "Date": "2020-04-16",
-        "Confirmed": "15857",
-        "Deaths": "630",
-        "Recovered": "7140"
-    }, {
-        "Date": "2020-04-15",
-        "Confirmed": "14860",
-        "Deaths": "487",
-        "Recovered": "6390"
-    }, {
-        "Date": "2020-04-14",
-        "Confirmed": "14248",
-        "Deaths": "435",
-        "Recovered": "5614"
-    }, {
-        "Date": "2020-04-13",
-        "Confirmed": "13557",
-        "Deaths": "360",
-        "Recovered": "4940"
-    }, {
-        "Date": "2020-04-12",
-        "Confirmed": "12846",
-        "Deaths": "328",
-        "Recovered": "4431"
-    }, {
-        "Date": "2020-04-11",
-        "Confirmed": "12292",
-        "Deaths": "289",
-        "Recovered": "3883"
-    }, {
-        "Date": "2020-04-10",
-        "Confirmed": "11677",
-        "Deaths": "241",
-        "Recovered": "3302"
-    }, {
-        "Date": "2020-04-09",
-        "Confirmed": "10912",
-        "Deaths": "216",
-        "Recovered": "2835"
-    }, {
-        "Date": "2020-04-08",
-        "Confirmed": "10031",
-        "Deaths": "175",
-        "Recovered": "2283"
-    }, {
-        "Date": "2020-04-07",
-        "Confirmed": "9340",
-        "Deaths": "150",
-        "Recovered": "1901"
-    }, {
-        "Date": "2020-04-06",
-        "Confirmed": "8580",
-        "Deaths": "121",
-        "Recovered": "1546"
-    }, {
-        "Date": "2020-04-05",
-        "Confirmed": "7944",
-        "Deaths": "94",
-        "Recovered": "1226"
-    }, {
-        "Date": "2020-04-04",
-        "Confirmed": "6997",
-        "Deaths": "75",
-        "Recovered": "932"
-    }, {
-        "Date": "2020-04-03",
-        "Confirmed": "6101",
-        "Deaths": "61",
-        "Recovered": "729"
-    }, {
-        "Date": "2020-04-02",
-        "Confirmed": "5518",
-        "Deaths": "36",
-        "Recovered": "589"
-    }, {
-        "Date": "2020-04-01",
-        "Confirmed": "4611",
-        "Deaths": "33",
-        "Recovered": "457"
-    }, {
-        "Date": "2020-03-31",
-        "Confirmed": "4162",
-        "Deaths": "31",
-        "Recovered": "356"
-    }, {
-        "Date": "2020-03-30",
-        "Confirmed": "3430",
-        "Deaths": "25",
-        "Recovered": "282"
-    }, {
-        "Date": "2020-03-29",
-        "Confirmed": "2840",
-        "Deaths": "22",
-        "Recovered": "239"
-    }, {
-        "Date": "2020-03-28",
-        "Confirmed": "2498",
-        "Deaths": "22",
-        "Recovered": "179"
-    }, {
-        "Date": "2020-03-27",
-        "Confirmed": "2021",
-        "Deaths": "18",
-        "Recovered": "133"
-    }, {
-        "Date": "2020-03-26",
-        "Confirmed": "1629",
-        "Deaths": "8",
-        "Recovered": "108"
-    }, {
-        "Date": "2020-03-25",
-        "Confirmed": "1339",
-        "Deaths": "7",
-        "Recovered": "74"
-    }, {
-        "Date": "2020-03-24",
-        "Confirmed": "1013",
-        "Deaths": "4",
-        "Recovered": "60"
-    }, {
-        "Date": "2020-03-23",
-        "Confirmed": "628",
-        "Deaths": "4",
-        "Recovered": "52"
-    }, {
-        "Date": "2020-03-22",
-        "Confirmed": "219",
-        "Deaths": "4",
-        "Recovered": "45"
-    }, {
-        "Date": "2020-03-21",
-        "Confirmed": "181",
-        "Deaths": "4",
-        "Recovered": "41"
-    }, {
-        "Date": "2020-03-20",
-        "Confirmed": "139",
-        "Deaths": "1",
-        "Recovered": "40"
-    }, {
-        "Date": "2020-03-19",
-        "Confirmed": "121",
-        "Deaths": "1",
-        "Recovered": "38"
-    }, {
-        "Date": "2020-03-18",
-        "Confirmed": "94",
-        "Deaths": "1",
-        "Recovered": "36"
-    }, {
-        "Date": "2020-03-17",
-        "Confirmed": "74",
-        "Deaths": "0",
-        "Recovered": "33"
-    }, {
-        "Date": "2020-03-16",
-        "Confirmed": "50",
-        "Deaths": "0",
-        "Recovered": "29"
-    }, {
-        "Date": "2020-03-15",
-        "Confirmed": "39",
-        "Deaths": "0",
-        "Recovered": "25"
-    }, {
-        "Date": "2020-03-14",
-        "Confirmed": "24",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-13",
-        "Confirmed": "17",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-12",
-        "Confirmed": "9",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-11",
-        "Confirmed": "8",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-10",
-        "Confirmed": "4",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-09",
-        "Confirmed": "4",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-08",
-        "Confirmed": "4",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-07",
-        "Confirmed": "3",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-06",
-        "Confirmed": "2",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-05",
-        "Confirmed": "2",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-04",
-        "Confirmed": "1",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-03",
-        "Confirmed": "1",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-02",
-        "Confirmed": "1",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-03-01",
-        "Confirmed": "1",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-02-29",
-        "Confirmed": "1",
-        "Deaths": "0",
-        "Recovered": "0"
-    }, {
-        "Date": "2020-02-28",
-        "Confirmed": "1",
-        "Deaths": "0",
-        "Recovered": "0"
-    }],
-    "Regions": [{
-        "Key": "canada_quebec_montreal",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_montreal",
-        "Name": "Montréal",
-        "NameFr": "Montréal",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "45.496",
-        "Long": "-73.668",
-        "Confirmed": "28425",
-        "Deaths": "3434",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "2049687",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_monteregie",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_monteregie",
-        "Name": "Montérégie",
-        "NameFr": "Montérégie",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "45.328",
-        "Long": "-73.220",
-        "Confirmed": "8613",
-        "Deaths": "604",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "1407917",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_laval",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_laval",
-        "Name": "Laval",
-        "NameFr": "Laval",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "45.6",
-        "Long": "-73.73",
-        "Confirmed": "5970",
-        "Deaths": "674",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "437435",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_lanaudiere",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_lanaudiere",
-        "Name": "Lanaudière",
-        "NameFr": "Lanaudière",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "46.45",
-        "Long": "-73.88",
-        "Confirmed": "4449",
-        "Deaths": "212",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "512597",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_laurentides",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_laurentides",
-        "Name": "Laurentides",
-        "NameFr": "Laurentides",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "46.582",
-        "Long": "-74.935",
-        "Confirmed": "3763",
-        "Deaths": "229",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "617807",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_mauricie-centre-du-quebec",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_mauricie-centre-du-quebec",
-        "Name": "Mauricie - Centre-du-Québec",
-        "NameFr": "Mauricie - Centre-du-Québec",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "46.327965",
-        "Long": "-72.498779",
-        "Confirmed": "2073",
-        "Deaths": "212",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "518814",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_capitale-nationale",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_capitale-nationale",
-        "Name": "Capitale-Nationale",
-        "NameFr": "Capitale-Nationale",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "47.43",
-        "Long": "-71.00",
-        "Confirmed": "1933",
-        "Deaths": "193",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "750492",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_estrie",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_estrie",
-        "Name": "Estrie",
-        "NameFr": "Estrie",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "45.44",
-        "Long": "-71.647",
-        "Confirmed": "1011",
-        "Deaths": "26",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "488349",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_outaouais",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_outaouais",
-        "Name": "Outaouais",
-        "NameFr": "Outaouais",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "46.217",
-        "Long": "-76.520",
-        "Confirmed": "653",
-        "Deaths": "33",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "394433",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_chaudiere-appalaches",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_chaudiere-appalaches",
-        "Name": "Chaudière-Appalaches",
-        "NameFr": "Chaudière-Appalaches",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "46.498",
-        "Long": "-70.961",
-        "Confirmed": "535",
-        "Deaths": "8",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "427965",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_saguenay-lac-saint-jean",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_saguenay-lac-saint-jean",
-        "Name": "Saguenay–Lac-Saint-Jean",
-        "NameFr": "Saguenay–Lac-Saint-Jean",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "49.53",
-        "Long": "-71.77",
-        "Confirmed": "365",
-        "Deaths": "26",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "277476",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_gaspesie-iles-de-la-madeleine",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_gaspesie-iles-de-la-madeleine",
-        "Name": "Gaspésie-Îles-de-la-Madeleine",
-        "NameFr": "Gaspésie-Îles-de-la-Madeleine",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "48.77",
-        "Long": "-65.63",
-        "Confirmed": "196",
-        "Deaths": "9",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "90397",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_abitibi-temiscamingue",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_abitibi-temiscamingue",
-        "Name": "Abitibi-Témiscamingue",
-        "NameFr": "Abitibi-Témiscamingue",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "47.937",
-        "Long": "-77.9",
-        "Confirmed": "177",
-        "Deaths": "4",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "147707",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_cote-nord",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_cote-nord",
-        "Name": "Côte-Nord",
-        "NameFr": "Côte-Nord",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "50.345460",
-        "Long": "-68.5",
-        "Confirmed": "126",
-        "Deaths": "0",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "90626",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_bas-saint-laurent",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_bas-saint-laurent",
-        "Name": "Bas-Saint-Laurent",
-        "NameFr": "Bas-Saint-Laurent",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "48.334",
-        "Long": "-68.397",
-        "Confirmed": "65",
-        "Deaths": "2",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "197237",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_nunavik",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_nunavik",
-        "Name": "Nunavik",
-        "NameFr": "Nunavik",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "52.25",
-        "Long": "-73.45",
-        "Confirmed": "17",
-        "Deaths": "0",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "13942",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_eeyou-istchee",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_eeyou-istchee",
-        "Name": "Eeyou Istchee",
-        "NameFr": "Territoire des Cris de la Baie-James",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "52.2333",
-        "Long": "-78.5000",
-        "Confirmed": "10",
-        "Deaths": "0",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "18097",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }, {
-        "Key": "canada_quebec_nord-du-quebec",
-        "Api": "https://kustom.radio-canada.ca/coronavirus/canada_quebec_nord-du-quebec",
-        "Name": "Nord-du-Québec",
-        "NameFr": "Nord-du-Québec",
-        "Country": "Canada",
-        "CountryFr": "Canada",
-        "State": "Québec",
-        "StateFr": "Québec",
-        "Lat": "50.345460",
-        "Long": "-75.849609",
-        "Confirmed": "8",
-        "Deaths": "0",
-        "Recovered": "0",
-        "Tests": null,
-        "TestsPending": null,
-        "Hospitalizations": null,
-        "IntensiveCares": null,
-        "Population": "13862",
-        "History": null,
-        "Regions": null,
-        "DateUpdate": "2020-07-25 13:02:42"
-    }],
-    "DateUpdate": "2020-07-25 13:02:42"
-}]
+[
+	{
+		"Key": "canada_quebec",
+		"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec",
+		"Name": "Quebec, Canada",
+		"NameFr": "Québec, Canada",
+		"Country": "Canada",
+		"CountryFr": "Canada",
+		"State": "Quebec",
+		"StateFr": "Québec",
+		"Lat": "52.9399",
+		"Long": "-73.5491",
+		"Confirmed": "89963",
+		"Deaths": "6005",
+		"Recovered": "75467",
+		"Population": "8484965",
+		"History": [
+			{
+				"Date": "2020-10-15",
+				"C": "89963",
+				"D": "6005",
+				"H": "493",
+				"I": "83",
+				"P": "0",
+				"R": "75467",
+				"T": "2713686"
+			},
+			{
+				"Date": "2020-10-14",
+				"C": "88994",
+				"D": "5976",
+				"H": "488",
+				"I": "80",
+				"P": "5.14",
+				"R": "74483",
+				"T": "2713686"
+			},
+			{
+				"Date": "2020-10-13",
+				"C": "87791",
+				"D": "5970",
+				"H": "468",
+				"I": "85",
+				"P": "4.3",
+				"R": "73734",
+				"T": "2690300"
+			},
+			{
+				"Date": "2020-10-12",
+				"C": "86976",
+				"D": "5965",
+				"H": "457",
+				"I": "75",
+				"P": "4.29",
+				"R": "72857",
+				"T": "2671357"
+			},
+			{
+				"Date": "2020-10-11",
+				"C": "86133",
+				"D": "5953",
+				"H": "437",
+				"I": "72",
+				"P": "4.32",
+				"R": "71839",
+				"T": "2651711"
+			},
+			{
+				"Date": "2020-10-10",
+				"C": "85191",
+				"D": "5950",
+				"H": "444",
+				"I": "73",
+				"P": "4.08",
+				"R": "70696",
+				"T": "2629903"
+			},
+			{
+				"Date": "2020-10-09",
+				"C": "84094",
+				"D": "5936",
+				"H": "433",
+				"I": "67",
+				"P": "3.5",
+				"R": "69586",
+				"T": "2603017"
+			},
+			{
+				"Date": "2020-10-08",
+				"C": "82992",
+				"D": "5915",
+				"H": "425",
+				"I": "68",
+				"P": "3.65",
+				"R": "68585",
+				"T": "2571537"
+			},
+			{
+				"Date": "2020-10-07",
+				"C": "81914",
+				"D": "5906",
+				"H": "409",
+				"I": "62",
+				"P": "2.99",
+				"R": "67735",
+				"T": "2541964"
+			},
+			{
+				"Date": "2020-10-06",
+				"C": "81014",
+				"D": "5899",
+				"H": "397",
+				"I": "67",
+				"P": "5.65",
+				"R": "67033",
+				"T": "2511878"
+			},
+			{
+				"Date": "2020-10-05",
+				"C": "79650",
+				"D": "5884",
+				"H": "361",
+				"I": "62",
+				"P": "5.49",
+				"R": "66180",
+				"T": "2487754"
+			},
+			{
+				"Date": "2020-10-04",
+				"C": "78459",
+				"D": "5878",
+				"H": "334",
+				"I": "64",
+				"P": "3.97",
+				"R": "65304",
+				"T": "2466069"
+			},
+			{
+				"Date": "2020-10-03",
+				"C": "77380",
+				"D": "5867",
+				"H": "326",
+				"I": "60",
+				"P": "3.62",
+				"R": "64478",
+				"T": "2438885"
+			},
+			{
+				"Date": "2020-10-02",
+				"C": "76273",
+				"D": "5857",
+				"H": "302",
+				"I": "49",
+				"P": "3.42",
+				"R": "63683",
+				"T": "2408265"
+			},
+			{
+				"Date": "2020-10-01",
+				"C": "75221",
+				"D": "5850",
+				"H": "275",
+				"I": "46",
+				"P": "2.97",
+				"R": "63102",
+				"T": "2377503"
+			},
+			{
+				"Date": "2020-09-30",
+				"C": "74288",
+				"D": "5834",
+				"H": "262",
+				"I": "43",
+				"P": "2.74",
+				"R": "62623",
+				"T": "2346061"
+			},
+			{
+				"Date": "2020-09-29",
+				"C": "73450",
+				"D": "5833",
+				"H": "247",
+				"I": "41",
+				"P": "3.1",
+				"R": "62154",
+				"T": "2315512"
+			},
+			{
+				"Date": "2020-09-28",
+				"C": "72651",
+				"D": "5826",
+				"H": "212",
+				"I": "37",
+				"P": "3.3",
+				"R": "61637",
+				"T": "2289749"
+			},
+			{
+				"Date": "2020-09-27",
+				"C": "71901",
+				"D": "5825",
+				"H": "216",
+				"I": "41",
+				"P": "3.47",
+				"R": "61159",
+				"T": "2267031"
+			},
+			{
+				"Date": "2020-09-26",
+				"C": "71005",
+				"D": "5821",
+				"H": "217",
+				"I": "45",
+				"P": "2.23",
+				"R": "60720",
+				"T": "2241189"
+			},
+			{
+				"Date": "2020-09-25",
+				"C": "70307",
+				"D": "5814",
+				"H": "199",
+				"I": "33",
+				"P": "2.08",
+				"R": "60321",
+				"T": "2209947"
+			},
+			{
+				"Date": "2020-09-24",
+				"C": "69670",
+				"D": "5810",
+				"H": "184",
+				"I": "31",
+				"P": "2.04",
+				"R": "60010",
+				"T": "2179288"
+			},
+			{
+				"Date": "2020-09-23",
+				"C": "69088",
+				"D": "5809",
+				"H": "178",
+				"I": "30",
+				"P": "1.7",
+				"R": "59761",
+				"T": "2150765"
+			},
+			{
+				"Date": "2020-09-22",
+				"C": "68617",
+				"D": "5805",
+				"H": "168",
+				"I": "28",
+				"P": "1.91",
+				"R": "59517",
+				"T": "2123098"
+			},
+			{
+				"Date": "2020-09-21",
+				"C": "68128",
+				"D": "5804",
+				"H": "148",
+				"I": "30",
+				"P": "2.66",
+				"R": "59203",
+				"T": "2097464"
+			},
+			{
+				"Date": "2020-09-20",
+				"C": "67542",
+				"D": "5802",
+				"H": "138",
+				"I": "31",
+				"P": "2",
+				"R": "58865",
+				"T": "2075399"
+			},
+			{
+				"Date": "2020-09-19",
+				"C": "67080",
+				"D": "5797",
+				"H": "131",
+				"I": "31",
+				"P": "1.41",
+				"R": "58541",
+				"T": "2052309"
+			},
+			{
+				"Date": "2020-09-18",
+				"C": "66653",
+				"D": "5792",
+				"H": "136",
+				"I": "30",
+				"P": "1.09",
+				"R": "58271",
+				"T": "2022016"
+			},
+			{
+				"Date": "2020-09-17",
+				"C": "66356",
+				"D": "5791",
+				"H": "136",
+				"I": "29",
+				"P": "1.81",
+				"R": "58075",
+				"T": "1994851"
+			},
+			{
+				"Date": "2020-09-16",
+				"C": "65857",
+				"D": "5788",
+				"H": "130",
+				"I": "26",
+				"P": "1.27",
+				"R": "57875",
+				"T": "1967336"
+			},
+			{
+				"Date": "2020-09-15",
+				"C": "65554",
+				"D": "5785",
+				"H": "133",
+				"I": "23",
+				"P": "1.38",
+				"R": "57662",
+				"T": "1943513"
+			},
+			{
+				"Date": "2020-09-14",
+				"C": "65262",
+				"D": "5780",
+				"H": "124",
+				"I": "19",
+				"P": "1.5",
+				"R": "57439",
+				"T": "1922398"
+			},
+			{
+				"Date": "2020-09-13",
+				"C": "64986",
+				"D": "5780",
+				"H": "124",
+				"I": "19",
+				"P": "1.28",
+				"R": "57307",
+				"T": "1904038"
+			},
+			{
+				"Date": "2020-09-12",
+				"C": "64707",
+				"D": "5780",
+				"H": "125",
+				"I": "16",
+				"P": "1.1",
+				"R": "57110",
+				"T": "1882315"
+			},
+			{
+				"Date": "2020-09-11",
+				"C": "64463",
+				"D": "5774",
+				"H": "123",
+				"I": "12",
+				"P": "0.88",
+				"R": "56900",
+				"T": "1860135"
+			},
+			{
+				"Date": "2020-09-10",
+				"C": "64244",
+				"D": "5773",
+				"H": "119",
+				"I": "12",
+				"P": "0.82",
+				"R": "56679",
+				"T": "1835278"
+			},
+			{
+				"Date": "2020-09-09",
+				"C": "64056",
+				"D": "5771",
+				"H": "113",
+				"I": "14",
+				"P": "1.01",
+				"R": "56445",
+				"T": "1812317"
+			},
+			{
+				"Date": "2020-09-08",
+				"C": "63876",
+				"D": "5770",
+				"H": "105",
+				"I": "15",
+				"P": "1.19",
+				"R": "56207",
+				"T": "1794460"
+			},
+			{
+				"Date": "2020-09-07",
+				"C": "63713",
+				"D": "5770",
+				"H": "105",
+				"I": "18",
+				"P": "1.79",
+				"R": "56024",
+				"T": "1780797"
+			},
+			{
+				"Date": "2020-09-06",
+				"C": "63497",
+				"D": "5769",
+				"H": "102",
+				"I": "18",
+				"P": "1.46",
+				"R": "55911",
+				"T": "1768700"
+			},
+			{
+				"Date": "2020-09-05",
+				"C": "63292",
+				"D": "5769",
+				"H": "94",
+				"I": "17",
+				"P": "1.01",
+				"R": "55829",
+				"T": "1754650"
+			},
+			{
+				"Date": "2020-09-04",
+				"C": "63117",
+				"D": "5767",
+				"H": "102",
+				"I": "18",
+				"P": "0.91",
+				"R": "55731",
+				"T": "1737321"
+			},
+			{
+				"Date": "2020-09-03",
+				"C": "62933",
+				"D": "5767",
+				"H": "100",
+				"I": "20",
+				"P": "1.09",
+				"R": "55638",
+				"T": "1717102"
+			},
+			{
+				"Date": "2020-09-02",
+				"C": "62746",
+				"D": "5764",
+				"H": "109",
+				"I": "20",
+				"P": "0.83",
+				"R": "55530",
+				"T": "1699936"
+			},
+			{
+				"Date": "2020-09-01",
+				"C": "62614",
+				"D": "5762",
+				"H": "110",
+				"I": "20",
+				"P": "1.04",
+				"R": "55445",
+				"T": "1684045"
+			},
+			{
+				"Date": "2020-08-31",
+				"C": "62492",
+				"D": "5760",
+				"H": "112",
+				"I": "18",
+				"P": "1.37",
+				"R": "55354",
+				"T": "1672283"
+			},
+			{
+				"Date": "2020-08-30",
+				"C": "62352",
+				"D": "5758",
+				"H": "116",
+				"I": "16",
+				"P": "1.01",
+				"R": "55298",
+				"T": "1662047"
+			},
+			{
+				"Date": "2020-08-29",
+				"C": "62232",
+				"D": "5755",
+				"H": "117",
+				"I": "17",
+				"P": "0.77",
+				"R": "55233",
+				"T": "1650186"
+			},
+			{
+				"Date": "2020-08-28",
+				"C": "62124",
+				"D": "5750",
+				"H": "117",
+				"I": "17",
+				"P": "0.42",
+				"R": "55155",
+				"T": "1636088"
+			},
+			{
+				"Date": "2020-08-27",
+				"C": "62056",
+				"D": "5750",
+				"H": "115",
+				"I": "15",
+				"P": "0.69",
+				"R": "55061",
+				"T": "1619711"
+			},
+			{
+				"Date": "2020-08-26",
+				"C": "61945",
+				"D": "5747",
+				"H": "110",
+				"I": "12",
+				"P": "0.9",
+				"R": "54959",
+				"T": "1603514"
+			},
+			{
+				"Date": "2020-08-25",
+				"C": "61803",
+				"D": "5746",
+				"H": "118",
+				"I": "12",
+				"P": "0.58",
+				"R": "54861",
+				"T": "1587807"
+			},
+			{
+				"Date": "2020-08-24",
+				"C": "61741",
+				"D": "5744",
+				"H": "115",
+				"I": "12",
+				"P": "0.78",
+				"R": "54778",
+				"T": "1577034"
+			},
+			{
+				"Date": "2020-08-23",
+				"C": "61673",
+				"D": "5740",
+				"H": "117",
+				"I": "14",
+				"P": "0.61",
+				"R": "54694",
+				"T": "1568354"
+			},
+			{
+				"Date": "2020-08-22",
+				"C": "61599",
+				"D": "5739",
+				"H": "124",
+				"I": "16",
+				"P": "0.73",
+				"R": "54613",
+				"T": "1556258"
+			},
+			{
+				"Date": "2020-08-21",
+				"C": "61495",
+				"D": "5733",
+				"H": "136",
+				"I": "23",
+				"P": "0.52",
+				"R": "54501",
+				"T": "1541955"
+			},
+			{
+				"Date": "2020-08-20",
+				"C": "61402",
+				"D": "5730",
+				"H": "146",
+				"I": "25",
+				"P": "0.5",
+				"R": "54381",
+				"T": "1524122"
+			},
+			{
+				"Date": "2020-08-19",
+				"C": "61316",
+				"D": "5729",
+				"H": "146",
+				"I": "26",
+				"P": "0.41",
+				"R": "54266",
+				"T": "1507060"
+			},
+			{
+				"Date": "2020-08-18",
+				"C": "61252",
+				"D": "5727",
+				"H": "145",
+				"I": "27",
+				"P": "0.37",
+				"R": "54113",
+				"T": "1491277"
+			},
+			{
+				"Date": "2020-08-17",
+				"C": "61206",
+				"D": "5721",
+				"H": "145",
+				"I": "25",
+				"P": "0.56",
+				"R": "53938",
+				"T": "1479001"
+			},
+			{
+				"Date": "2020-08-16",
+				"C": "61151",
+				"D": "5720",
+				"H": "149",
+				"I": "25",
+				"P": "0.57",
+				"R": "53823",
+				"T": "1469239"
+			},
+			{
+				"Date": "2020-08-15",
+				"C": "61084",
+				"D": "5719",
+				"H": "149",
+				"I": "25",
+				"P": "0.51",
+				"R": "53728",
+				"T": "1457430"
+			},
+			{
+				"Date": "2020-08-14",
+				"C": "61004",
+				"D": "5718",
+				"H": "151",
+				"I": "25",
+				"P": "0.49",
+				"R": "53583",
+				"T": "1441665"
+			},
+			{
+				"Date": "2020-08-13",
+				"C": "60917",
+				"D": "5715",
+				"H": "151",
+				"I": "21",
+				"P": "0.61",
+				"R": "53473",
+				"T": "1423775"
+			},
+			{
+				"Date": "2020-08-12",
+				"C": "60813",
+				"D": "5709",
+				"H": "151",
+				"I": "21",
+				"P": "0.59",
+				"R": "53300",
+				"T": "1406638"
+			},
+			{
+				"Date": "2020-08-11",
+				"C": "60718",
+				"D": "5697",
+				"H": "151",
+				"I": "21",
+				"P": "0.78",
+				"R": "53141",
+				"T": "1390399"
+			},
+			{
+				"Date": "2020-08-10",
+				"C": "60627",
+				"D": "5696",
+				"H": "157",
+				"I": "21",
+				"P": "1.68",
+				"R": "52995",
+				"T": "1378750"
+			},
+			{
+				"Date": "2020-08-09",
+				"C": "60471",
+				"D": "5695",
+				"H": "156",
+				"I": "22",
+				"P": "0.71",
+				"R": "52895",
+				"T": "1369445"
+			},
+			{
+				"Date": "2020-08-08",
+				"C": "60367",
+				"D": "5692",
+				"H": "155",
+				"I": "23",
+				"P": "0.76",
+				"R": "52776",
+				"T": "1354809"
+			},
+			{
+				"Date": "2020-08-07",
+				"C": "60241",
+				"D": "5687",
+				"H": "152",
+				"I": "19",
+				"P": "0.6",
+				"R": "52653",
+				"T": "1338159"
+			},
+			{
+				"Date": "2020-08-06",
+				"C": "60133",
+				"D": "5687",
+				"H": "165",
+				"I": "19",
+				"P": "0.81",
+				"R": "52494",
+				"T": "1320082"
+			},
+			{
+				"Date": "2020-08-05",
+				"C": "60000",
+				"D": "5687",
+				"H": "167",
+				"I": "19",
+				"P": "0.95",
+				"R": "52340",
+				"T": "1303610"
+			},
+			{
+				"Date": "2020-08-04",
+				"C": "59845",
+				"D": "5685",
+				"H": "169",
+				"I": "21",
+				"P": "0.99",
+				"R": "52200",
+				"T": "1287317"
+			},
+			{
+				"Date": "2020-08-03",
+				"C": "59722",
+				"D": "5683",
+				"H": "172",
+				"I": "18",
+				"P": "1.19",
+				"R": "52052",
+				"T": "1274888"
+			},
+			{
+				"Date": "2020-08-02",
+				"C": "59599",
+				"D": "5681",
+				"H": "172",
+				"I": "17",
+				"P": "1.01",
+				"R": "51908",
+				"T": "1264563"
+			},
+			{
+				"Date": "2020-08-01",
+				"C": "59458",
+				"D": "5678",
+				"H": "177",
+				"I": "18",
+				"P": "0.87",
+				"R": "51794",
+				"T": "1250645"
+			},
+			{
+				"Date": "2020-07-31",
+				"C": "59312",
+				"D": "5674",
+				"H": "189",
+				"I": "15",
+				"P": "1.06",
+				"R": "51671",
+				"T": "1233912"
+			},
+			{
+				"Date": "2020-07-30",
+				"C": "59131",
+				"D": "5673",
+				"H": "208",
+				"I": "18",
+				"P": "0.67",
+				"R": "51515",
+				"T": "1216880"
+			},
+			{
+				"Date": "2020-07-29",
+				"C": "59009",
+				"D": "5672",
+				"H": "190",
+				"I": "9",
+				"P": "0.74",
+				"R": "51338",
+				"T": "1198625"
+			},
+			{
+				"Date": "2020-07-28",
+				"C": "58897",
+				"D": "5670",
+				"H": "193",
+				"I": "8",
+				"P": "1.25",
+				"R": "51188",
+				"T": "1183431"
+			},
+			{
+				"Date": "2020-07-27",
+				"C": "58728",
+				"D": "5667",
+				"H": "200",
+				"I": "7",
+				"P": "1.33",
+				"R": "51058",
+				"T": "1169933"
+			},
+			{
+				"Date": "2020-07-26",
+				"C": "58583",
+				"D": "5667",
+				"H": "197",
+				"I": "10",
+				"P": "1.32",
+				"R": "50955",
+				"T": "1159056"
+			},
+			{
+				"Date": "2020-07-25",
+				"C": "58414",
+				"D": "5666",
+				"H": "206",
+				"I": "12",
+				"P": "1.12",
+				"R": "50828",
+				"T": "1146282"
+			},
+			{
+				"Date": "2020-07-24",
+				"C": "58243",
+				"D": "5663",
+				"H": "220",
+				"I": "12",
+				"P": "0.96",
+				"R": "50697",
+				"T": "1131064"
+			},
+			{
+				"Date": "2020-07-23",
+				"C": "58080",
+				"D": "5662",
+				"H": "221",
+				"I": "14",
+				"P": "0.87",
+				"R": "50546",
+				"T": "1114111"
+			},
+			{
+				"Date": "2020-07-22",
+				"C": "57938",
+				"D": "5662",
+				"H": "235",
+				"I": "16",
+				"P": "0.99",
+				"R": "50420",
+				"T": "1097769"
+			},
+			{
+				"Date": "2020-07-21",
+				"C": "57796",
+				"D": "5658",
+				"H": "247",
+				"I": "15",
+				"P": "1.52",
+				"R": "50314",
+				"T": "1083459"
+			},
+			{
+				"Date": "2020-07-20",
+				"C": "57616",
+				"D": "5657",
+				"H": "251",
+				"I": "17",
+				"P": "1.38",
+				"R": "50201",
+				"T": "1071616"
+			},
+			{
+				"Date": "2020-07-19",
+				"C": "57466",
+				"D": "5655",
+				"H": "251",
+				"I": "18",
+				"P": "1.24",
+				"R": "50108",
+				"T": "1060782"
+			},
+			{
+				"Date": "2020-07-18",
+				"C": "57300",
+				"D": "5654",
+				"H": "248",
+				"I": "15",
+				"P": "0.96",
+				"R": "50013",
+				"T": "1047424"
+			},
+			{
+				"Date": "2020-07-17",
+				"C": "57142",
+				"D": "5647",
+				"H": "260",
+				"I": "16",
+				"P": "0.97",
+				"R": "49928",
+				"T": "1030958"
+			},
+			{
+				"Date": "2020-07-16",
+				"C": "57001",
+				"D": "5646",
+				"H": "277",
+				"I": "20",
+				"P": "0.99",
+				"R": "49826",
+				"T": "1016433"
+			},
+			{
+				"Date": "2020-07-15",
+				"C": "56859",
+				"D": "5636",
+				"H": "285",
+				"I": "20",
+				"P": "1.07",
+				"R": "49736",
+				"T": "1002050"
+			},
+			{
+				"Date": "2020-07-14",
+				"C": "56730",
+				"D": "5633",
+				"H": "295",
+				"I": "21",
+				"P": "1.13",
+				"R": "49639",
+				"T": "990009"
+			},
+			{
+				"Date": "2020-07-13",
+				"C": "56621",
+				"D": "5628",
+				"H": "305",
+				"I": "21",
+				"P": "1.22",
+				"R": "49503",
+				"T": "980349"
+			},
+			{
+				"Date": "2020-07-12",
+				"C": "56521",
+				"D": "5627",
+				"H": "306",
+				"I": "20",
+				"P": "1.13",
+				"R": "49439",
+				"T": "972134"
+			},
+			{
+				"Date": "2020-07-11",
+				"C": "56407",
+				"D": "5620",
+				"H": "313",
+				"I": "22",
+				"P": "0.81",
+				"R": "49362",
+				"T": "962016"
+			},
+			{
+				"Date": "2020-07-10",
+				"C": "56316",
+				"D": "5612",
+				"H": "317",
+				"I": "24",
+				"P": "0.83",
+				"R": "49268",
+				"T": "950739"
+			},
+			{
+				"Date": "2020-07-09",
+				"C": "56216",
+				"D": "5609",
+				"H": "308",
+				"I": "27",
+				"P": "1.3",
+				"R": "49137",
+				"T": "938705"
+			},
+			{
+				"Date": "2020-07-08",
+				"C": "56079",
+				"D": "5603",
+				"H": "331",
+				"I": "27",
+				"P": "0.88",
+				"R": "49029",
+				"T": "928201"
+			},
+			{
+				"Date": "2020-07-07",
+				"C": "55997",
+				"D": "5590",
+				"H": "347",
+				"I": "26",
+				"P": "0.82",
+				"R": "48907",
+				"T": "918922"
+			},
+			{
+				"Date": "2020-07-06",
+				"C": "55937",
+				"D": "5577",
+				"H": "377",
+				"I": "25",
+				"P": "1.39",
+				"R": "48821",
+				"T": "911620"
+			},
+			{
+				"Date": "2020-07-05",
+				"C": "55863",
+				"D": "5574",
+				"H": "371",
+				"I": "26",
+				"P": "1.26",
+				"R": "48785",
+				"T": "906302"
+			},
+			{
+				"Date": "2020-07-04",
+				"C": "55784",
+				"D": "5566",
+				"H": "375",
+				"I": "27",
+				"P": "1.29",
+				"R": "48668",
+				"T": "900034"
+			},
+			{
+				"Date": "2020-07-03",
+				"C": "55682",
+				"D": "5560",
+				"H": "392",
+				"I": "31",
+				"P": "1.12",
+				"R": "48528",
+				"T": "892115"
+			},
+			{
+				"Date": "2020-07-02",
+				"C": "55593",
+				"D": "5541",
+				"H": "411",
+				"I": "32",
+				"P": "0.79",
+				"R": "48319",
+				"T": "884197"
+			},
+			{
+				"Date": "2020-07-01",
+				"C": "55524",
+				"D": "5527",
+				"H": "422",
+				"I": "33",
+				"P": "0.74",
+				"R": "48166",
+				"T": "875516"
+			},
+			{
+				"Date": "2020-06-30",
+				"C": "55458",
+				"D": "5503",
+				"H": "435",
+				"I": "38",
+				"P": "1",
+				"R": "48017",
+				"T": "866637"
+			},
+			{
+				"Date": "2020-06-29",
+				"C": "55390",
+				"D": "5485",
+				"H": "455",
+				"I": "45",
+				"P": "1.33",
+				"R": "47855",
+				"T": "859867"
+			},
+			{
+				"Date": "2020-06-28",
+				"C": "55318",
+				"D": "5478",
+				"H": "455",
+				"I": "43",
+				"P": "0.99",
+				"R": "47767",
+				"T": "854443"
+			},
+			{
+				"Date": "2020-06-27",
+				"C": "55241",
+				"D": "5472",
+				"H": "458",
+				"I": "45",
+				"P": "0.93",
+				"R": "47613",
+				"T": "846655"
+			},
+			{
+				"Date": "2020-06-26",
+				"C": "55156",
+				"D": "5455",
+				"H": "478",
+				"I": "48",
+				"P": "1.05",
+				"R": "47352",
+				"T": "837564"
+			},
+			{
+				"Date": "2020-06-25",
+				"C": "55079",
+				"D": "5448",
+				"H": "487",
+				"I": "50",
+				"P": "1.75",
+				"R": "47174",
+				"T": "830241"
+			},
+			{
+				"Date": "2020-06-24",
+				"C": "54937",
+				"D": "5441",
+				"H": "500",
+				"I": "52",
+				"P": "0.67",
+				"R": "47035",
+				"T": "822128"
+			},
+			{
+				"Date": "2020-06-23",
+				"C": "54884",
+				"D": "5424",
+				"H": "515",
+				"I": "56",
+				"P": "0.79",
+				"R": "46836",
+				"T": "814211"
+			},
+			{
+				"Date": "2020-06-22",
+				"C": "54835",
+				"D": "5417",
+				"H": "520",
+				"I": "57",
+				"P": "1.17",
+				"R": "46658",
+				"T": "808026"
+			},
+			{
+				"Date": "2020-06-21",
+				"C": "54766",
+				"D": "5417",
+				"H": "521",
+				"I": "61",
+				"P": "1.19",
+				"R": "46502",
+				"T": "802146"
+			},
+			{
+				"Date": "2020-06-20",
+				"C": "54674",
+				"D": "5408",
+				"H": "529",
+				"I": "62",
+				"P": "1.5",
+				"R": "46344",
+				"T": "794404"
+			},
+			{
+				"Date": "2020-06-19",
+				"C": "54550",
+				"D": "5375",
+				"H": "574",
+				"I": "62",
+				"P": "1.69",
+				"R": "46082",
+				"T": "786114"
+			},
+			{
+				"Date": "2020-06-18",
+				"C": "54383",
+				"D": "5340",
+				"H": "637",
+				"I": "65",
+				"P": "1.22",
+				"R": "45820",
+				"T": "776238"
+			},
+			{
+				"Date": "2020-06-17",
+				"C": "54263",
+				"D": "5298",
+				"H": "690",
+				"I": "72",
+				"P": "1.32",
+				"R": "45503",
+				"T": "766435"
+			},
+			{
+				"Date": "2020-06-16",
+				"C": "54146",
+				"D": "5269",
+				"H": "718",
+				"I": "77",
+				"P": "1.35",
+				"R": "45169",
+				"T": "757546"
+			},
+			{
+				"Date": "2020-06-15",
+				"C": "54054",
+				"D": "5242",
+				"H": "771",
+				"I": "82",
+				"P": "1.96",
+				"R": "44790",
+				"T": "750734"
+			},
+			{
+				"Date": "2020-06-14",
+				"C": "53952",
+				"D": "5222",
+				"H": "769",
+				"I": "85",
+				"P": "1.81",
+				"R": "44560",
+				"T": "745534"
+			},
+			{
+				"Date": "2020-06-13",
+				"C": "53824",
+				"D": "5195",
+				"H": "788",
+				"I": "102",
+				"P": "1.67",
+				"R": "44250",
+				"T": "738455"
+			},
+			{
+				"Date": "2020-06-12",
+				"C": "53666",
+				"D": "5148",
+				"H": "840",
+				"I": "107",
+				"P": "1.91",
+				"R": "43860",
+				"T": "728975"
+			},
+			{
+				"Date": "2020-06-11",
+				"C": "53485",
+				"D": "5105",
+				"H": "871",
+				"I": "114",
+				"P": "1.58",
+				"R": "43425",
+				"T": "719482"
+			},
+			{
+				"Date": "2020-06-10",
+				"C": "53341",
+				"D": "5081",
+				"H": "914",
+				"I": "117",
+				"P": "1.61",
+				"R": "42927",
+				"T": "710381"
+			},
+			{
+				"Date": "2020-06-09",
+				"C": "53185",
+				"D": "5029",
+				"H": "961",
+				"I": "117",
+				"P": "1.73",
+				"R": "42484",
+				"T": "700705"
+			},
+			{
+				"Date": "2020-06-08",
+				"C": "53047",
+				"D": "4984",
+				"H": "979",
+				"I": "121",
+				"P": "2.86",
+				"R": "42052",
+				"T": "692710"
+			},
+			{
+				"Date": "2020-06-07",
+				"C": "52849",
+				"D": "4978",
+				"H": "972",
+				"I": "128",
+				"P": "2.35",
+				"R": "41626",
+				"T": "685786"
+			},
+			{
+				"Date": "2020-06-06",
+				"C": "52624",
+				"D": "4970",
+				"H": "981",
+				"I": "129",
+				"P": "1.79",
+				"R": "41202",
+				"T": "676210"
+			},
+			{
+				"Date": "2020-06-05",
+				"C": "52398",
+				"D": "4935",
+				"H": "1030",
+				"I": "131",
+				"P": "2.36",
+				"R": "40622",
+				"T": "663553"
+			},
+			{
+				"Date": "2020-06-04",
+				"C": "52143",
+				"D": "4885",
+				"H": "1076",
+				"I": "146",
+				"P": "2.07",
+				"R": "40134",
+				"T": "652764"
+			},
+			{
+				"Date": "2020-06-03",
+				"C": "51884",
+				"D": "4794",
+				"H": "1141",
+				"I": "158",
+				"P": "2.34",
+				"R": "39572",
+				"T": "640274"
+			},
+			{
+				"Date": "2020-06-02",
+				"C": "51593",
+				"D": "4713",
+				"H": "1175",
+				"I": "161",
+				"P": "2.48",
+				"R": "38970",
+				"T": "627830"
+			},
+			{
+				"Date": "2020-06-01",
+				"C": "51354",
+				"D": "4661",
+				"H": "1185",
+				"I": "163",
+				"P": "3.12",
+				"R": "38376",
+				"T": "618184"
+			},
+			{
+				"Date": "2020-05-31",
+				"C": "51059",
+				"D": "4641",
+				"H": "1198",
+				"I": "171",
+				"P": "3.14",
+				"R": "37761",
+				"T": "608726"
+			},
+			{
+				"Date": "2020-05-30",
+				"C": "50651",
+				"D": "4439",
+				"H": "1197",
+				"I": "167",
+				"P": "3.02",
+				"R": "37054",
+				"T": "595741"
+			},
+			{
+				"Date": "2020-05-29",
+				"C": "50232",
+				"D": "4363",
+				"H": "1265",
+				"I": "172",
+				"P": "3.82",
+				"R": "36359",
+				"T": "581888"
+			},
+			{
+				"Date": "2020-05-28",
+				"C": "49702",
+				"D": "4302",
+				"H": "1331",
+				"I": "178",
+				"P": "3.77",
+				"R": "35686",
+				"T": "568020"
+			},
+			{
+				"Date": "2020-05-27",
+				"C": "49139",
+				"D": "4228",
+				"H": "1378",
+				"I": "184",
+				"P": "4.17",
+				"R": "34986",
+				"T": "553071"
+			},
+			{
+				"Date": "2020-05-26",
+				"C": "48598",
+				"D": "4139",
+				"H": "1403",
+				"I": "181",
+				"P": "6.07",
+				"R": "34298",
+				"T": "540099"
+			},
+			{
+				"Date": "2020-05-25",
+				"C": "47984",
+				"D": "4069",
+				"H": "1425",
+				"I": "179",
+				"P": "4.73",
+				"R": "33506",
+				"T": "529987"
+			},
+			{
+				"Date": "2020-05-24",
+				"C": "47411",
+				"D": "3984",
+				"H": "1435",
+				"I": "170",
+				"P": "4.23",
+				"R": "32958",
+				"T": "517866"
+			},
+			{
+				"Date": "2020-05-23",
+				"C": "46838",
+				"D": "3940",
+				"H": "1452",
+				"I": "167",
+				"P": "4.53",
+				"R": "32289",
+				"T": "504333"
+			},
+			{
+				"Date": "2020-05-22",
+				"C": "46141",
+				"D": "3865",
+				"H": "1479",
+				"I": "171",
+				"P": "4.43",
+				"R": "31559",
+				"T": "488958"
+			},
+			{
+				"Date": "2020-05-21",
+				"C": "45495",
+				"D": "3800",
+				"H": "1504",
+				"I": "176",
+				"P": "5.76",
+				"R": "30722",
+				"T": "474386"
+			},
+			{
+				"Date": "2020-05-20",
+				"C": "44775",
+				"D": "3718",
+				"H": "1516",
+				"I": "183",
+				"P": "4.98",
+				"R": "29987",
+				"T": "461880"
+			},
+			{
+				"Date": "2020-05-19",
+				"C": "44197",
+				"D": "3647",
+				"H": "1784",
+				"I": "180",
+				"P": "5.95",
+				"R": "29194",
+				"T": "450272"
+			},
+			{
+				"Date": "2020-05-18",
+				"C": "43627",
+				"D": "3596",
+				"H": "1771",
+				"I": "179",
+				"P": "6.93",
+				"R": "28434",
+				"T": "440690"
+			},
+			{
+				"Date": "2020-05-17",
+				"C": "42920",
+				"D": "3562",
+				"H": "1766",
+				"I": "183",
+				"P": "5.49",
+				"R": "27803",
+				"T": "430487"
+			},
+			{
+				"Date": "2020-05-16",
+				"C": "42183",
+				"D": "3483",
+				"H": "1763",
+				"I": "179",
+				"P": "6.33",
+				"R": "27148",
+				"T": "417052"
+			},
+			{
+				"Date": "2020-05-15",
+				"C": "41420",
+				"D": "3401",
+				"H": "1822",
+				"I": "191",
+				"P": "5.29",
+				"R": "26429",
+				"T": "404998"
+			},
+			{
+				"Date": "2020-05-14",
+				"C": "40724",
+				"D": "3351",
+				"H": "1834",
+				"I": "190",
+				"P": "6.98",
+				"R": "25494",
+				"T": "391829"
+			},
+			{
+				"Date": "2020-05-13",
+				"C": "39931",
+				"D": "3220",
+				"H": "1876",
+				"I": "194",
+				"P": "6.25",
+				"R": "24641",
+				"T": "380466"
+			},
+			{
+				"Date": "2020-05-12",
+				"C": "39225",
+				"D": "3131",
+				"H": "1841",
+				"I": "186",
+				"P": "8.42",
+				"R": "23756",
+				"T": "369164"
+			},
+			{
+				"Date": "2020-05-11",
+				"C": "38469",
+				"D": "3013",
+				"H": "1838",
+				"I": "193",
+				"P": "8.32",
+				"R": "22787",
+				"T": "360183"
+			},
+			{
+				"Date": "2020-05-10",
+				"C": "37721",
+				"D": "2928",
+				"H": "1831",
+				"I": "199",
+				"P": "8.13",
+				"R": "22178",
+				"T": "351188"
+			},
+			{
+				"Date": "2020-05-09",
+				"C": "36986",
+				"D": "2786",
+				"H": "1835",
+				"I": "205",
+				"P": "7.72",
+				"R": "21514",
+				"T": "342146"
+			},
+			{
+				"Date": "2020-05-08",
+				"C": "36150",
+				"D": "2725",
+				"H": "1827",
+				"I": "207",
+				"P": "9.09",
+				"R": "20759",
+				"T": "331315"
+			},
+			{
+				"Date": "2020-05-07",
+				"C": "35238",
+				"D": "2631",
+				"H": "1836",
+				"I": "224",
+				"P": "9.64",
+				"R": "20063",
+				"T": "321282"
+			},
+			{
+				"Date": "2020-05-06",
+				"C": "34327",
+				"D": "2510",
+				"H": "1840",
+				"I": "213",
+				"P": "9.98",
+				"R": "19349",
+				"T": "311830"
+			},
+			{
+				"Date": "2020-05-05",
+				"C": "33417",
+				"D": "2398",
+				"H": "1821",
+				"I": "218",
+				"P": "11.45",
+				"R": "18655",
+				"T": "302713"
+			},
+			{
+				"Date": "2020-05-04",
+				"C": "32623",
+				"D": "2280",
+				"H": "1772",
+				"I": "218",
+				"P": "9.53",
+				"R": "17987",
+				"T": "295776"
+			},
+			{
+				"Date": "2020-05-03",
+				"C": "31865",
+				"D": "2205",
+				"H": "1754",
+				"I": "218",
+				"P": "28.29",
+				"R": "17428",
+				"T": "287821"
+			},
+			{
+				"Date": "2020-05-02",
+				"C": "29656",
+				"D": "2136",
+				"H": "1738",
+				"I": "222",
+				"P": "10.42",
+				"R": "16819",
+				"T": "280012"
+			},
+			{
+				"Date": "2020-05-01",
+				"C": "28648",
+				"D": "2022",
+				"H": "1716",
+				"I": "218",
+				"P": "12.89",
+				"R": "16115",
+				"T": "270340"
+			},
+			{
+				"Date": "2020-04-30",
+				"C": "27538",
+				"D": "1859",
+				"H": "1684",
+				"I": "214",
+				"P": "10.73",
+				"R": "15406",
+				"T": "261727"
+			},
+			{
+				"Date": "2020-04-29",
+				"C": "26594",
+				"D": "1761",
+				"H": "1648",
+				"I": "222",
+				"P": "11.76",
+				"R": "14615",
+				"T": "252926"
+			},
+			{
+				"Date": "2020-04-28",
+				"C": "25757",
+				"D": "1682",
+				"H": "1625",
+				"I": "217",
+				"P": "12.08",
+				"R": "13958",
+				"T": "245808"
+			},
+			{
+				"Date": "2020-04-27",
+				"C": "24982",
+				"D": "1599",
+				"H": "1541",
+				"I": "210",
+				"P": "12.48",
+				"R": "13318",
+				"T": "239395"
+			},
+			{
+				"Date": "2020-04-26",
+				"C": "24107",
+				"D": "1515",
+				"H": "1518",
+				"I": "215",
+				"P": "13.25",
+				"R": "12843",
+				"T": "232382"
+			},
+			{
+				"Date": "2020-04-25",
+				"C": "23267",
+				"D": "1446",
+				"H": "1509",
+				"I": "217",
+				"P": "8.53",
+				"R": "12314",
+				"T": "226043"
+			},
+			{
+				"Date": "2020-04-24",
+				"C": "22616",
+				"D": "1340",
+				"H": "1460",
+				"I": "227",
+				"P": "11.79",
+				"R": "11737",
+				"T": "218413"
+			},
+			{
+				"Date": "2020-04-23",
+				"C": "21838",
+				"D": "1243",
+				"H": "1411",
+				"I": "207",
+				"P": "10.15",
+				"R": "11182",
+				"T": "211813"
+			},
+			{
+				"Date": "2020-04-22",
+				"C": "20965",
+				"D": "1134",
+				"H": "1278",
+				"I": "199",
+				"P": "14.07",
+				"R": "10571",
+				"T": "203215"
+			},
+			{
+				"Date": "2020-04-21",
+				"C": "20126",
+				"D": "1041",
+				"H": "1224",
+				"I": "201",
+				"P": "12.74",
+				"R": "10012",
+				"T": "197252"
+			},
+			{
+				"Date": "2020-04-20",
+				"C": "19319",
+				"D": "939",
+				"H": "1169",
+				"I": "198",
+				"P": "17.88",
+				"R": "9362",
+				"T": "190916"
+			},
+			{
+				"Date": "2020-04-19",
+				"C": "18357",
+				"D": "877",
+				"H": "1102",
+				"I": "183",
+				"P": "14.17",
+				"R": "8863",
+				"T": "185537"
+			},
+			{
+				"Date": "2020-04-18",
+				"C": "17521",
+				"D": "805",
+				"H": "1130",
+				"I": "258",
+				"P": "11.36",
+				"R": "8285",
+				"T": "179639"
+			},
+			{
+				"Date": "2020-04-17",
+				"C": "16798",
+				"D": "688",
+				"H": "1076",
+				"I": "207",
+				"P": "14.03",
+				"R": "7612",
+				"T": "173276"
+			},
+			{
+				"Date": "2020-04-16",
+				"C": "15857",
+				"D": "609",
+				"H": "1018",
+				"I": "209",
+				"P": "15.19",
+				"R": "6904",
+				"T": "166569"
+			},
+			{
+				"Date": "2020-04-15",
+				"C": "14860",
+				"D": "487",
+				"H": "984",
+				"I": "218",
+				"P": "8.53",
+				"R": "6185",
+				"T": "160007"
+			},
+			{
+				"Date": "2020-04-14",
+				"C": "14248",
+				"D": "435",
+				"H": "936",
+				"I": "230",
+				"P": "9.85",
+				"R": "5422",
+				"T": "152833"
+			},
+			{
+				"Date": "2020-04-13",
+				"C": "13557",
+				"D": "360",
+				"H": "879",
+				"I": "226",
+				"P": "11.41",
+				"R": "4775",
+				"T": "145817"
+			},
+			{
+				"Date": "2020-04-12",
+				"C": "12846",
+				"D": "328",
+				"H": "824",
+				"I": "217",
+				"P": "8",
+				"R": "4297",
+				"T": "139587"
+			},
+			{
+				"Date": "2020-04-11",
+				"C": "12292",
+				"D": "289",
+				"H": "778",
+				"I": "211",
+				"P": "11.68",
+				"R": "3771",
+				"T": "132664"
+			},
+			{
+				"Date": "2020-04-10",
+				"C": "11677",
+				"D": "241",
+				"H": "733",
+				"I": "186",
+				"P": "13.89",
+				"R": "3200",
+				"T": "127397"
+			},
+			{
+				"Date": "2020-04-09",
+				"C": "10912",
+				"D": "216",
+				"H": "679",
+				"I": "196",
+				"P": "17.73",
+				"R": "2755",
+				"T": "121889"
+			},
+			{
+				"Date": "2020-04-08",
+				"C": "10031",
+				"D": "175",
+				"H": "632",
+				"I": "181",
+				"P": "12.81",
+				"R": "2224",
+				"T": "116921"
+			},
+			{
+				"Date": "2020-04-07",
+				"C": "9340",
+				"D": "150",
+				"H": "583",
+				"I": "164",
+				"P": "15.82",
+				"R": "1851",
+				"T": "111527"
+			},
+			{
+				"Date": "2020-04-06",
+				"C": "8580",
+				"D": "121",
+				"H": "533",
+				"I": "164",
+				"P": "15.99",
+				"R": "1491",
+				"T": "106722"
+			},
+			{
+				"Date": "2020-04-05",
+				"C": "7944",
+				"D": "94",
+				"H": "525",
+				"I": "154",
+				"P": "18.98",
+				"R": "1180",
+				"T": "102744"
+			},
+			{
+				"Date": "2020-04-04",
+				"C": "6997",
+				"D": "75",
+				"H": "478",
+				"I": "130",
+				"P": "11.57",
+				"R": "892",
+				"T": "97754"
+			},
+			{
+				"Date": "2020-04-03",
+				"C": "6101",
+				"D": "61",
+				"H": "441",
+				"I": "122",
+				"P": "8.12",
+				"R": "697",
+				"T": "90011"
+			},
+			{
+				"Date": "2020-04-02",
+				"C": "5518",
+				"D": "36",
+				"H": "365",
+				"I": "96",
+				"P": "13.97",
+				"R": "558",
+				"T": "82829"
+			},
+			{
+				"Date": "2020-04-01",
+				"C": "4611",
+				"D": "33",
+				"H": "307",
+				"I": "82",
+				"P": "5.93",
+				"R": "437",
+				"T": "76336"
+			},
+			{
+				"Date": "2020-03-31",
+				"C": "4162",
+				"D": "31",
+				"H": "286",
+				"I": "82",
+				"P": "9.75",
+				"R": "321",
+				"T": "68767"
+			},
+			{
+				"Date": "2020-03-30",
+				"C": "3430",
+				"D": "25",
+				"H": "235",
+				"I": "78",
+				"P": "8.61",
+				"R": "249",
+				"T": "61256"
+			},
+			{
+				"Date": "2020-03-29",
+				"C": "2840",
+				"D": "22",
+				"H": "192",
+				"I": "72",
+				"P": "5.92",
+				"R": "193",
+				"T": "54400"
+			},
+			{
+				"Date": "2020-03-28",
+				"C": "2498",
+				"D": "22",
+				"H": "164",
+				"I": "57",
+				"P": "7.8",
+				"R": "139",
+				"T": "48627"
+			},
+			{
+				"Date": "2020-03-27",
+				"C": "2021",
+				"D": "18",
+				"H": "141",
+				"I": "50",
+				"P": "7.4",
+				"R": "98",
+				"T": "42508"
+			},
+			{
+				"Date": "2020-03-26",
+				"C": "1629",
+				"D": "8",
+				"H": "106",
+				"I": "43",
+				"P": "5.38",
+				"R": "73",
+				"T": "37209"
+			},
+			{
+				"Date": "2020-03-25",
+				"C": "1339",
+				"D": "6",
+				"H": "78",
+				"I": "35",
+				"P": "8.1",
+				"R": "43",
+				"T": "31815"
+			},
+			{
+				"Date": "2020-03-24",
+				"C": "1013",
+				"D": "4",
+				"H": "67",
+				"I": "31",
+				"P": "9.74",
+				"R": "24",
+				"T": "27791"
+			},
+			{
+				"Date": "2020-03-23",
+				"C": "628",
+				"D": "4",
+				"H": "45",
+				"I": "20",
+				"P": "9.22",
+				"R": "13",
+				"T": "23839"
+			},
+			{
+				"Date": "2020-03-22",
+				"C": "219",
+				"D": "4",
+				"H": "24",
+				"I": "13",
+				"P": "0.95",
+				"R": "7",
+				"T": "19405"
+			},
+			{
+				"Date": "2020-03-21",
+				"C": "181",
+				"D": "4",
+				"H": "19",
+				"I": "10",
+				"P": "1.05",
+				"R": "4",
+				"T": "15410"
+			},
+			{
+				"Date": "2020-03-20",
+				"C": "139",
+				"D": "1",
+				"H": "10",
+				"I": "6",
+				"P": "0.5",
+				"R": "3",
+				"T": "11420"
+			},
+			{
+				"Date": "2020-03-19",
+				"C": "121",
+				"D": "1",
+				"H": "7",
+				"I": "4",
+				"P": "1.2",
+				"R": "1",
+				"T": "7823"
+			},
+			{
+				"Date": "2020-03-18",
+				"C": "94",
+				"D": "0",
+				"H": "6",
+				"I": "4",
+				"P": "1.37",
+				"R": "1",
+				"T": "5577"
+			},
+			{
+				"Date": "2020-03-17",
+				"C": "74",
+				"D": "0",
+				"H": "5",
+				"I": "0",
+				"P": "2.07",
+				"R": "1",
+				"T": "4118"
+			},
+			{
+				"Date": "2020-03-16",
+				"C": "50",
+				"D": "0",
+				"H": "2",
+				"I": "0",
+				"P": "1.36",
+				"R": "1",
+				"T": "2961"
+			},
+			{
+				"Date": "2020-03-15",
+				"C": "39",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "2.16",
+				"R": "1",
+				"T": "2150"
+			},
+			{
+				"Date": "2020-03-14",
+				"C": "24",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "2.44",
+				"R": "1",
+				"T": "1455"
+			},
+			{
+				"Date": "2020-03-13",
+				"C": "17",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "1.06",
+				"R": "1",
+				"T": "1168"
+			},
+			{
+				"Date": "2020-03-12",
+				"C": "13",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "2.22",
+				"R": "1",
+				"T": "791"
+			},
+			{
+				"Date": "2020-03-11",
+				"C": "8",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "1",
+				"T": "566"
+			},
+			{
+				"Date": "2020-03-09",
+				"C": "4",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "353"
+			},
+			{
+				"Date": "2020-03-08",
+				"C": "4",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "0"
+			},
+			{
+				"Date": "2020-03-07",
+				"C": "3",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "0"
+			},
+			{
+				"Date": "2020-03-06",
+				"C": "3",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "0"
+			},
+			{
+				"Date": "2020-03-05",
+				"C": "2",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "0"
+			},
+			{
+				"Date": "2020-03-03",
+				"C": "1",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "0"
+			},
+			{
+				"Date": "2020-03-01",
+				"C": "1",
+				"D": "0",
+				"H": "0",
+				"I": "0",
+				"P": "0",
+				"R": "0",
+				"T": "0"
+			}
+		],
+		"Regions": [
+			{
+				"Key": "canada_quebec_montreal",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_montreal",
+				"Name": "Montréal",
+				"NameFr": "Montréal",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "45.496",
+				"Long": "-73.668",
+				"Confirmed": "38427",
+				"Deaths": "3501",
+				"Recovered": "32505",
+				"Population": "2049687",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_monteregie",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_monteregie",
+				"Name": "Montérégie",
+				"NameFr": "Montérégie",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "45.328",
+				"Long": "-73.220",
+				"Confirmed": "13097",
+				"Deaths": "653",
+				"Recovered": "11083",
+				"Population": "1407917",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_laval",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_laval",
+				"Name": "Laval",
+				"NameFr": "Laval",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "45.6",
+				"Long": "-73.73",
+				"Confirmed": "8420",
+				"Deaths": "700",
+				"Recovered": "7153",
+				"Population": "437435",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_capitale-nationale",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_capitale-nationale",
+				"Name": "Capitale-Nationale",
+				"NameFr": "Capitale-Nationale",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "47.43",
+				"Long": "-71.00",
+				"Confirmed": "6558",
+				"Deaths": "255",
+				"Recovered": "5091",
+				"Population": "750492",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_lanaudiere",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_lanaudiere",
+				"Name": "Lanaudière",
+				"NameFr": "Lanaudière",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "46.45",
+				"Long": "-73.88",
+				"Confirmed": "5932",
+				"Deaths": "225",
+				"Recovered": "5354",
+				"Population": "512597",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_laurentides",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_laurentides",
+				"Name": "Laurentides",
+				"NameFr": "Laurentides",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "46.582",
+				"Long": "-74.935",
+				"Confirmed": "5620",
+				"Deaths": "287",
+				"Recovered": "4912",
+				"Population": "617807",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_mauricie-centre-du-quebec",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_mauricie-centre-du-quebec",
+				"Name": "Mauricie - Centre-du-Québec",
+				"NameFr": "Mauricie - Centre-du-Québec",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "46.327965",
+				"Long": "-72.498779",
+				"Confirmed": "3217",
+				"Deaths": "214",
+				"Recovered": "2472",
+				"Population": "518814",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_chaudiere-appalaches",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_chaudiere-appalaches",
+				"Name": "Chaudière-Appalaches",
+				"NameFr": "Chaudière-Appalaches",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "46.498",
+				"Long": "-70.961",
+				"Confirmed": "2370",
+				"Deaths": "42",
+				"Recovered": "1767",
+				"Population": "427965",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_estrie",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_estrie",
+				"Name": "Estrie",
+				"NameFr": "Estrie",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "45.44",
+				"Long": "-71.647",
+				"Confirmed": "2178",
+				"Deaths": "34",
+				"Recovered": "1856",
+				"Population": "488349",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_outaouais",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_outaouais",
+				"Name": "Outaouais",
+				"NameFr": "Outaouais",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "46.217",
+				"Long": "-76.520",
+				"Confirmed": "1925",
+				"Deaths": "34",
+				"Recovered": "1594",
+				"Population": "394433",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_saguenay-lac-saint-jean",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_saguenay-lac-saint-jean",
+				"Name": "Saguenay–Lac-Saint-Jean",
+				"NameFr": "Saguenay–Lac-Saint-Jean",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "49.53",
+				"Long": "-71.77",
+				"Confirmed": "665",
+				"Deaths": "26",
+				"Recovered": "451",
+				"Population": "277476",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_gaspesie-iles-de-la-madeleine",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_gaspesie-iles-de-la-madeleine",
+				"Name": "Gaspésie-Îles-de-la-Madeleine",
+				"NameFr": "Gaspésie-Îles-de-la-Madeleine",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "48.77",
+				"Long": "-65.63",
+				"Confirmed": "645",
+				"Deaths": "21",
+				"Recovered": "419",
+				"Population": "90397",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_bas-saint-laurent",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_bas-saint-laurent",
+				"Name": "Bas-Saint-Laurent",
+				"NameFr": "Bas-Saint-Laurent",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "48.334",
+				"Long": "-68.397",
+				"Confirmed": "402",
+				"Deaths": "7",
+				"Recovered": "355",
+				"Population": "197237",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_abitibi-temiscamingue",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_abitibi-temiscamingue",
+				"Name": "Abitibi-Témiscamingue",
+				"NameFr": "Abitibi-Témiscamingue",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "47.937",
+				"Long": "-77.9",
+				"Confirmed": "241",
+				"Deaths": "4",
+				"Recovered": "203",
+				"Population": "147707",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_cote-nord",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_cote-nord",
+				"Name": "Côte-Nord",
+				"NameFr": "Côte-Nord",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "50.345460",
+				"Long": "-68.5",
+				"Confirmed": "162",
+				"Deaths": "1",
+				"Recovered": "157",
+				"Population": "90626",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_nunavik",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_nunavik",
+				"Name": "Nunavik",
+				"NameFr": "Nunavik",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "52.25",
+				"Long": "-73.45",
+				"Confirmed": "28",
+				"Deaths": "0",
+				"Recovered": "22",
+				"Population": "13942",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_eeyou-istchee",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_eeyou-istchee",
+				"Name": "Eeyou Istchee",
+				"NameFr": "Territoire des Cris de la Baie-James",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "52.2333",
+				"Long": "-78.5000",
+				"Confirmed": "14",
+				"Deaths": "1",
+				"Recovered": "13",
+				"Population": "18097",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			},
+			{
+				"Key": "canada_quebec_nord-du-quebec",
+				"Api": "https://kustom.radio-canada.ca/covid-19/canada_quebec_nord-du-quebec",
+				"Name": "Nord-du-Québec",
+				"NameFr": "Nord-du-Québec",
+				"Country": "Canada",
+				"CountryFr": "Canada",
+				"State": "Québec",
+				"StateFr": "Québec",
+				"Lat": "50.345460",
+				"Long": "-75.849609",
+				"Confirmed": "9",
+				"Deaths": "0",
+				"Recovered": "9",
+				"Population": "13862",
+				"History": null,
+				"Regions": null,
+				"DateUpdate": "2020-10-15 11:20:57"
+			}
+		],
+		"DateUpdate": "2020-10-15 11:20:57"
+	}
+]
