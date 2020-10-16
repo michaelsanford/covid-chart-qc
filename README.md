@@ -15,13 +15,13 @@ A silly late-night experiment with Pandas to make my own charts.
 
 Probably don't use it for anything serious.
 
-# Data Source?
+## Data Source?
 
 This scrapes the publically-available (but undocumented) SRC data source.
 
 (Thank you for making it public 💖)
 
-# `History` Data Structure
+## `History` Data Structure
 
 ```json
 "History": [
@@ -47,3 +47,7 @@ This scrapes the publically-available (but undocumented) SRC data source.
 |`P`| `Float`  | _(Unknown)_ |
 |`R`| `Number` | Recoveries (Total) |
 |`T`| `Number` | Tests Conducted (Total, delayed 48h) |
+
+## Jupyter Notebook
+
+Also available [on Kaggle as a Jupyter Notebook](https://www.kaggle.com/michaelsanford/covid-explorer-quebec), which will probably be the one I will continue actively developing.
