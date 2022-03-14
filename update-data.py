@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import urllib.request, json
 
 QC = "https://kustom.radio-canada.ca/coronavirus/canada_quebec"
