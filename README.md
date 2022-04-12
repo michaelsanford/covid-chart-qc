@@ -2,6 +2,10 @@
 
 Pandas experiment to chart some COVID data.
 
+## Kaggle
+
+This was ported [to Kaggle as a Kaggle Notebook](https://www.kaggle.com/michaelsanford/covid-explorer-quebec), which was maintained until SRC deprecated their data source and stopped updating it on 9 Aptil 2022. This project is now archived.
+
 ## Quickstart
 
 ```powershell
@@ -47,7 +51,3 @@ This scrapes the publically-available (but undocumented) SRC data source.
 |`P`| `Float`  | _(Unknown)_ |
 |`R`| `Number` | Recoveries (Total) |
 |`T`| `Number` | Tests Conducted (Total, delayed 48h) |
-
-## Jupyter Notebook
-
-Also available [on Kaggle as a Jupyter Notebook](https://www.kaggle.com/michaelsanford/covid-explorer-quebec), which will probably be the one I will continue actively developing.
